@@ -11,4 +11,6 @@ A maker's academy repo that introduces you to using the command line.
 
 ### First pairing project [fizzbuzz] (https://github.com/BenJohnCarson/fizzbuzz)
 
+### Stepping into TDD [learn-rspec] (https://github.com/BenJohnCarson/learn-rspec)
+
 ## Onwards to the main course! [Makers-Academy] (https://github.com/BenJohnCarson/Makers-Academy)
